@@ -20,8 +20,11 @@ React Native | FastAPI | FAISS | Neo4j | OCR + NER | OpenAI | LLaMA 3.3 | RAG
 ![image](https://github.com/user-attachments/assets/ace675d0-0ebc-482d-be3d-e85f103d0363)
 ![image](https://github.com/user-attachments/assets/692684de-4df0-4921-9970-20de63cacc8b)
 ![image](https://github.com/user-attachments/assets/d3b105c6-fdb7-47a0-93cf-9c0b7455ff46)
+![image](https://github.com/user-attachments/assets/a8379f59-00f7-4bc4-ae21-d44caaefd0c8)
 ![image](https://github.com/user-attachments/assets/35ffeed4-3057-4042-a1dc-34c869adfd14)
+![image](https://github.com/user-attachments/assets/acea9eab-db02-4760-83d8-0775e3d64b84)
 ![image](https://github.com/user-attachments/assets/41cba537-80f7-45ca-b2a0-8f4141f7ea5b)
+![image](https://github.com/user-attachments/assets/c74dd281-c5bb-453e-8e60-9eef4edd4dbb)
 
 
 ## Contributors
