@@ -1,0 +1,8 @@
+cd backend 
+python -m venv venv
+source venv/bin/activate
+pip install fastapi uvicorn pillow pyzbar python-multipart pandas
+
+
+uvicorn main:app --reload
+http://127.0.0.1:8000/docs
