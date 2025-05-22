@@ -28,10 +28,10 @@ React Native | FastAPI | FAISS | Neo4j | OCR + NER | OpenAI | LLaMA 3.3 | RAG
 
 
 ## Contributors
+- Aishwarya Balasaheb Dhaigude (adhaigud@iu.edu)
 - Sai Navya Jyesta (sjyesta@iu.edu)
 - Niveditha Bommanahally Parameshwrappa (nibomm@iu.edu)
 - Kumar Koushik Telaprolu (ktelapro@iu.edu)
-- Aishwarya Balasaheb Dhaigude (adhaigud@iu.edu)
 
 
 ## Contact
